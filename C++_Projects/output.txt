@@ -1,0 +1,213 @@
+t = 1
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 2
+-----------------------------------
+	Anna is choosing between Mr. Bones' Wild Ride ( wait time = 7 minutes ) and The No-Fun House ( wait time = 4 minutes ).
+	Anna has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Anna 
+-----------------------------------
+t = 3
+-----------------------------------
+	Bob is choosing between Mr. Bones' Wild Ride ( wait time = 6 minutes ) and The No-Fun House ( wait time = 3 minutes ).
+	Bob has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Anna Bob 
+-----------------------------------
+t = 4
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Anna Bob 
+-----------------------------------
+t = 5
+-----------------------------------
+	Charlie is choosing between Mr. Bones' Wild Ride ( wait time = 4 minutes ) and The No-Fun House ( wait time = 1 minutes ).
+	Charlie has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Anna Bob Charlie 
+-----------------------------------
+t = 6
+-----------------------------------
+	David is choosing between Mr. Bones' Wild Ride ( wait time = 3 minutes ) and The No-Fun House ( wait time = 7 minutes ).
+	David has entered the line for Mr. Bones' Wild Ride.
+	Mr. Bones' Wild Ride line : David 
+	The No-Fun House line : Anna Bob Charlie 
+-----------------------------------
+t = 7
+-----------------------------------
+	The No-Fun House is now boarding : Charlie Bob Anna 
+	Eve is choosing between Mr. Bones' Wild Ride ( wait time = 2 minutes ) and The No-Fun House ( wait time = 6 minutes ).
+	Eve has entered the line for Mr. Bones' Wild Ride.
+	Mr. Bones' Wild Ride line : David Eve 
+	The No-Fun House line : 
+-----------------------------------
+t = 8
+-----------------------------------
+	Mr. Bones' Wild Ride line : David Eve 
+	The No-Fun House line : 
+-----------------------------------
+t = 9
+-----------------------------------
+	Frank is choosing between Mr. Bones' Wild Ride ( wait time = 10 minutes ) and The No-Fun House ( wait time = 4 minutes ).
+	Frank has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : David Eve 
+	The No-Fun House line : Frank 
+-----------------------------------
+t = 10
+-----------------------------------
+	Mr. Bones' Wild Ride is now boarding : Eve David 
+	Gabrielle is choosing between Mr. Bones' Wild Ride ( wait time = 9 minutes ) and The No-Fun House ( wait time = 3 minutes ).
+	Gabrielle has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Frank Gabrielle 
+-----------------------------------
+t = 11
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Frank Gabrielle 
+-----------------------------------
+t = 12
+-----------------------------------
+	Horton is choosing between Mr. Bones' Wild Ride ( wait time = 7 minutes ) and The No-Fun House ( wait time = 1 minutes ).
+	Horton has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Frank Gabrielle Horton 
+-----------------------------------
+t = 13
+-----------------------------------
+	Ingrid is choosing between Mr. Bones' Wild Ride ( wait time = 6 minutes ) and The No-Fun House ( wait time = 7 minutes ).
+	Ingrid has entered the line for Mr. Bones' Wild Ride.
+	Mr. Bones' Wild Ride line : Ingrid 
+	The No-Fun House line : Frank Gabrielle Horton 
+-----------------------------------
+t = 14
+-----------------------------------
+	The No-Fun House is now boarding : Horton Gabrielle Frank 
+	Mr. Bones' Wild Ride line : Ingrid 
+	The No-Fun House line : 
+-----------------------------------
+t = 15
+-----------------------------------
+	Josh is choosing between Mr. Bones' Wild Ride ( wait time = 4 minutes ) and The No-Fun House ( wait time = 5 minutes ).
+	Josh has entered the line for Mr. Bones' Wild Ride.
+	Mr. Bones' Wild Ride line : Ingrid Josh 
+	The No-Fun House line : 
+-----------------------------------
+t = 16
+-----------------------------------
+	Karen is choosing between Mr. Bones' Wild Ride ( wait time = 13 minutes ) and The No-Fun House ( wait time = 4 minutes ).
+	Karen has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : Ingrid Josh 
+	The No-Fun House line : Karen 
+-----------------------------------
+t = 17
+-----------------------------------
+	Mr. Bones' Wild Ride line : Ingrid Josh 
+	The No-Fun House line : Karen 
+-----------------------------------
+t = 18
+-----------------------------------
+	Lenny is choosing between Mr. Bones' Wild Ride ( wait time = 11 minutes ) and The No-Fun House ( wait time = 2 minutes ).
+	Lenny has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : Ingrid Josh 
+	The No-Fun House line : Karen Lenny 
+-----------------------------------
+t = 19
+-----------------------------------
+	Molly is choosing between Mr. Bones' Wild Ride ( wait time = 10 minutes ) and The No-Fun House ( wait time = 1 minutes ).
+	Molly has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : Ingrid Josh 
+	The No-Fun House line : Karen Lenny Molly 
+-----------------------------------
+t = 20
+-----------------------------------
+	Mr. Bones' Wild Ride is now boarding : Josh Ingrid 
+	Norbert is choosing between Mr. Bones' Wild Ride ( wait time = 9 minutes ) and The No-Fun House ( wait time = 7 minutes ).
+	Norbert has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen Lenny Molly Norbert 
+-----------------------------------
+t = 21
+-----------------------------------
+	The No-Fun House is now boarding : Norbert Molly Lenny 
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen 
+-----------------------------------
+t = 22
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen 
+-----------------------------------
+t = 23
+-----------------------------------
+	Ophelia is choosing between Mr. Bones' Wild Ride ( wait time = 6 minutes ) and The No-Fun House ( wait time = 4 minutes ).
+	Ophelia has entered the line for The No-Fun House.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen Ophelia 
+-----------------------------------
+t = 24
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen Ophelia 
+-----------------------------------
+t = 25
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen Ophelia 
+-----------------------------------
+t = 26
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen Ophelia 
+-----------------------------------
+t = 27
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : Karen Ophelia 
+-----------------------------------
+t = 28
+-----------------------------------
+	The No-Fun House is now boarding : Ophelia Karen 
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 29
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 30
+-----------------------------------
+	Mr. Bones' Wild Ride is idle.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 31
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 32
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 33
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 34
+-----------------------------------
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
+t = 35
+-----------------------------------
+	The No-Fun House is idle.
+	Mr. Bones' Wild Ride line : 
+	The No-Fun House line : 
+-----------------------------------
